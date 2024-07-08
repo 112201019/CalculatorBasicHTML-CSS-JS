@@ -10,6 +10,10 @@ function func(para){
         calculation='';
         localStorage.setItem('calculation', calculation);
     }
+    else if(para==='00'){
+        calculation=calculation.slice(0,-1);
+        localStorage.setItem('calculation', calculation);
+    }
     else{
         calculation+=para;
     }
