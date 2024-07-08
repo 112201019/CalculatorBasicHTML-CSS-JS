@@ -6,8 +6,15 @@
 }
 body{
   background-color: black;
+  margin-left: 100px;
 }
-
+.pic{
+  height: 35px;
+}
+.yo{
+  width: 105px;
+  margin-top: 0px;
+}
 button{
   background-color: rgb(51, 51, 51);
   border-radius: 30px;
