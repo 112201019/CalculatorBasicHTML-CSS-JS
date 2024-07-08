@@ -2,3 +2,4 @@ A Basic webcalculator which has a local storage connection. (Values are stored i
 This code mainly consists of HTML, Styling component-CSS, JavaScript.
 Download the whole file into one folder and open the calc.html file in browser.
 (Code might contain bugs, will be refined, if at all found).
+This is a basic Frontend project. 
